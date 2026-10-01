@@ -184,7 +184,7 @@ export function HomeIntroduction({ social, github }: { social: SocialSnapshot; g
         <T
           zh={
             <>
-              我是 纳兰，一名极简的辩证主义者，也是一名
+              我是 陈纳兰，一名极简的辩证主义者，也是一名
               <DesignEngineerPhrase>全栈工程师</DesignEngineerPhrase>。我也是 lastwar 指挥官，热爱把细节做到
               <DetailsPhrase>
                 <span className="home-detail-units">
